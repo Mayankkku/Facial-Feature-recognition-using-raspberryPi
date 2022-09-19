@@ -73,8 +73,8 @@ Congrats! You have built a Facial Recognition Camera with the Raspberry Pi.
 
 Referrence - 
  $ www.google.com
- $ www.piimagesearch.com
- $ www.robu.in
+ $ https://robu.in
+ $ https://pyimagesearch.com
 ---------------------------------------
 Thanks for checking my project out!
 
